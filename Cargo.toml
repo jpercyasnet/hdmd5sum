@@ -1,0 +1,16 @@
+[package]
+name = "hdmd5sum"
+version = "0.1.0"
+authors = ["jp <jpercyasnet@yahoo.com>"]
+edition = "2021"
+publish = false
+
+[dependencies]
+iced = "^0"
+native-dialog = "^0"
+iced_futures = "^0"
+chrono = "^0"
+walkdir = "^0"
+md5 = "^0"
+#kamadak-exif = "^0"
+#regex = "^0"
